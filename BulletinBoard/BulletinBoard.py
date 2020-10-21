@@ -1,3 +1,5 @@
+# class 이용한 게시판
+
 class BulletinBoard:
     def __init__(self):
         self.cnt = 0
